@@ -3,7 +3,7 @@
 
 - 🔭 we are currently working on 
 
-- 👨‍💻 All of my projects are available at [[https://github.com/crakdelpol?tab=repositories](https://github.com/orgs/bettercallsaullegal/repositories)](https://github.com/orgs/bettercallsaullegal/repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/orgs/bettercallsaullegal/repositories)
 
 - 💬 Ask us about **Everythink**
 
