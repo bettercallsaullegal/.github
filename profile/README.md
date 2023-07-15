@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, We are </h1>
-<h3 align="center">A passionate developers from Italy</h3>
+<h3 align="center">A bunch of developers from Italy building cool stuff</h3>
 
-- 🔭 we are currently working on 
+- 🔭 we are currently working on a badass idea
 
-- 👨‍💻 All of my projects are available [here](https://github.com/orgs/bettercallsaullegal/repositories)
+- 👨‍💻 Project repos [here](https://github.com/orgs/bettercallsaullegal/repositories)
 
-- 💬 Ask us about **Everythink**
-
-- 📫 How to reach us **bettercallsaullegal@gmail.com**
