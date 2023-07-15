@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, We are </h1>
-<h3 align="center">A bunch of developers from Italy building cool stuff</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">We are bunch of developers from Italy building cool stuff</h3>
 
 - 🔭 we are currently working on a badass idea
 
