@@ -4,5 +4,5 @@
 - 🔭 we are currently working on a badass idea
 
 - 👨‍💻 Project repos [here](https://github.com/orgs/bettercallsaullegal/repositories)
-  - [pyhon](https://github.com/bettercallsaullegal/pySaulGoodman)
-  - [frontend](https://github.com/bettercallsaullegal/Azzeccagarbugli-App)
+  - [🐍 azzeccagarbugli](https://github.com/bettercallsaullegal/pySaulGoodman)
+  - [⚖️ azzeccagarbugli](https://github.com/bettercallsaullegal/Azzeccagarbugli-App)
